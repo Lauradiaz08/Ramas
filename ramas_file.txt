@@ -1,3 +1,5 @@
 Hola
 Hola2
-Conflicto2
+Modificado desde rama1
+conflicto
+Hola3
